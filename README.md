@@ -2,7 +2,7 @@
 This project is a clone of the popular streaming platform Netflix, built using modern web technologies. It aims to replicate the key features and functionalities of Netflix, including a responsive user interface, movie/series browsing, and playback capabilities.
 
 
-Features
+# Features
 User authentication: Users can create accounts, log in, and securely authenticate themselves.
 Movie/series browsing: Browse through a vast library of movies and series, categorized by genre and popularity.
 Search functionality: Search for specific movies or series using keywords.
