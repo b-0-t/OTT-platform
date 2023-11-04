@@ -1,6 +1,5 @@
 # Features
 -User authentication: Users can create accounts, log in, and securely authenticate themselves.
-
 -Movie/series browsing: Browse through a vast library of movies and series, categorized by genre and popularity.
 -Search functionality: Search for specific movies or series using keywords.
 -Video playback: Enjoy seamless video playback with player controls and full-screen mode.
